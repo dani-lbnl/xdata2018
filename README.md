@@ -9,7 +9,7 @@ You watched the course ["Principles of Digital Image Processing"](https://github
 **Experiment:**
 COUNT THE NUMBER OF BEAMS
 
-1) Get 1/4 cup of beans, drop from a 10 inch height on a white letter-size paper and take a picture with your cell phone - frame the whole paper. Get more than 1 picture of the scene, and at different illuminations, flash, day light, etc. (remember: one data point is no data)
+1) Get 1/4 cup of beans or 50 beans, drop from a 10 inch height on a white letter-size paper and take a picture with your cell phone - frame the whole paper. Get more than 1 picture of the scene, and at different illuminations, flash, day light, etc. (remember: one data point is no data)
 
 2) Exercise what you learned in class using your bean-pictures - don't forget to save all the intermediate steps for each image - you can create a stack with each step, create gif(s) and automated montage (hint for collage: help montage).
 (note: it's not the quantity of files you produce, but how much you can use information acquired at each step)
@@ -21,7 +21,7 @@ COUNT THE NUMBER OF BEAMS
 
 5) Build a computer program with the whole set of image transformations. (note: although you can use menus and interact with the picture during the test phase using the mouse, there's a lot to clean after recording your steps, erase your mistakes and keep going)
 
-RULES: any camera, any light spectrum, real beans (brown or black grains advised), any computer language (including macros in [Fiji](https://imagej.net/Introduction_into_Macro_Programming#More_example_macros))
+RULES: any camera, any light spectrum, real beans (brown or black grains advised), any computer language (including macros in [Fiji](https://imagej.net/Introduction_into_Macro_Programming#More_example_macros)), more than 50 beans on the paper.
 
 Enjoy! **Award** to the best project. Teams allowed.
 Dani Ushizima
