@@ -21,7 +21,7 @@ COUNT THE NUMBER OF BEAMS
 
 5) Build a computer program with the whole set of image transformations. (note: although you can use menus and interact with the picture during the test phase using the mouse, there's a lot to clean after recording your steps, erase your mistakes and keep going)
 
-RULES: any computer language, any camera, any light spectrum, real beans (brown or black grains advised)
+RULES: any camera, any light spectrum, real beans (brown or black grains advised), any computer language (including macros in [Fiji](https://imagej.net/Introduction_into_Macro_Programming#More_example_macros))
 
 Enjoy! **Award** to the best project. Teams allowed.
 Dani Ushizima
