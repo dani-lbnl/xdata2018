@@ -23,5 +23,5 @@ COUNT THE NUMBER OF BEAMS
 
 RULES: any camera, any light spectrum, real beans (brown or black grains advised), any computer language (including macros in [Fiji](https://imagej.net/Introduction_into_Macro_Programming#More_example_macros)), more than 50 beans on the paper.
 
-Enjoy! **Award** to the best project. Teams allowed.
+Enjoy! **Award** to the best project. Teams allowed (n<=3).
 Dani Ushizima
